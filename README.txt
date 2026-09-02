@@ -1,4 +1,4 @@
-MAHNOOR ADNAN PORTFOLIO
+MAHNOOR PORTFOLIO
 ========================
 
 Open index.html in a browser to preview the portfolio.
